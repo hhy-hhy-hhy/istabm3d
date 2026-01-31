@@ -1,0 +1,14 @@
+{
+  "project_name": "ISTA_vs_BM3D",
+  "author": "YOGA",
+  "date": "2026-01-31",
+  "description": "\u56fe\u50cf\u53bb\u566a\u7b97\u6cd5\u6bd4\u8f83\u9879\u76ee",
+  "libraries": {
+    "numpy": "2.4.1",
+    "opencv": "4.13.0",
+    "matplotlib": "3.10.8",
+    "scikit-image": "0.26.0",
+    "scipy": "1.17.0",
+    "pywavelets": "1.8.0"
+  }
+}

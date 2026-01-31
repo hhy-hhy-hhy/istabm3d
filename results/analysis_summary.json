@@ -1,0 +1,13 @@
+{
+  "summary": {
+    "ista_psnr_mean": 19.27900654533186,
+    "ista_ssim_mean": 0.6802272796630859,
+    "ista_time_mean": 0.03588080000008626,
+    "bm3d_psnr_mean": 23.738253288790162,
+    "bm3d_ssim_mean": 0.6531167716952041,
+    "bm3d_time_mean": 3.384235699999772,
+    "psnr_improvement": 23.13006499050152,
+    "ssim_improvement": -3.9855073118075435,
+    "time_ratio": 0.010602334819672484
+  }
+}
